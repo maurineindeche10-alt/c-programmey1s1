@@ -1,5 +1,6 @@
-/*author geoofrey muthoka
-reg no:CT101/G/24436/24
+/*
+name: maurine indeche
+reg no:CT101/G/23746/24
 DATE:20/09/2024
 program:program to add two numbers
 */
