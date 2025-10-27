@@ -1,6 +1,7 @@
-/*author geoofrey muthoka
-reg no:CT101/G/24436/24
-DATE:20/09/2024
+/*
+name: maurine indeche
+reg no:CT101/G/23746/24
+DATE:20/09/2025
 program:variables and data types
 */
 #include <stdio.h>
