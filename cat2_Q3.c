@@ -1,7 +1,6 @@
 /*
-geoffrey muthoka
-ct101/g/24436/24
-programming cat
+maurine indeche
+ct101/g/23746/24
 */
 #include <stdio.h>
 #include <stdlib.h>
